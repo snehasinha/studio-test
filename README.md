@@ -7,3 +7,4 @@ Software Studio 2013 Test Repository
 
 Shawn Mueller, smueller@syr.edu, smueller1
 Aaron Dodds  , amdodds@syr.edu , amd86 
+Haiyang Pan , dlut.phy@gmail.com, hapan
